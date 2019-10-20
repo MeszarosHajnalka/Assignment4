@@ -1,0 +1,13 @@
+C:\Users\mflor\source\repos\Assignment4\Assignment4\bin\Debug\netcoreapp2.1\Assignment4.deps.json
+C:\Users\mflor\source\repos\Assignment4\Assignment4\bin\Debug\netcoreapp2.1\Assignment4.runtimeconfig.json
+C:\Users\mflor\source\repos\Assignment4\Assignment4\bin\Debug\netcoreapp2.1\Assignment4.runtimeconfig.dev.json
+C:\Users\mflor\source\repos\Assignment4\Assignment4\bin\Debug\netcoreapp2.1\Assignment4.dll
+C:\Users\mflor\source\repos\Assignment4\Assignment4\bin\Debug\netcoreapp2.1\Assignment1.dll
+C:\Users\mflor\source\repos\Assignment4\Assignment4\obj\Debug\netcoreapp2.1\Assignment4.csprojAssemblyReference.cache
+C:\Users\mflor\source\repos\Assignment4\Assignment4\obj\Debug\netcoreapp2.1\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\mflor\source\repos\Assignment4\Assignment4\obj\Debug\netcoreapp2.1\Assignment4.AssemblyInfoInputs.cache
+C:\Users\mflor\source\repos\Assignment4\Assignment4\obj\Debug\netcoreapp2.1\Assignment4.AssemblyInfo.cs
+C:\Users\mflor\source\repos\Assignment4\Assignment4\obj\Debug\netcoreapp2.1\Assignment4.csproj.CopyComplete
+C:\Users\mflor\source\repos\Assignment4\Assignment4\bin\Debug\netcoreapp2.1\Assignment4.pdb
+C:\Users\mflor\source\repos\Assignment4\Assignment4\obj\Debug\netcoreapp2.1\Assignment4.dll
+C:\Users\mflor\source\repos\Assignment4\Assignment4\obj\Debug\netcoreapp2.1\Assignment4.pdb
